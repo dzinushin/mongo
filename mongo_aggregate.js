@@ -26,3 +26,4 @@ db.events.aggregate([
         }
     }
 ])
+
